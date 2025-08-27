@@ -1,29 +1,21 @@
 # Text-Animation
-
-
-# Magic-Navbar-Menu
-This project shows an example of text that animates to show different words
+This project shows an example of text that animates to show different coding programmes
 
 ## Languages used:
 ![Languaged Used](assets/images/languages.png)
 
 ## Showcase:
-#### Word 1
-![Word 1](assets/images/not-hover.png)
+#### HTML
+![HTML](assets/images/html.png)
 
-#### Word 2
-![Word 2](assets/images/not-hover.png)
+#### SCSS
+![scss](assets/images/scss.png)
 
+#### Python
+![Python](assets/images/python.png)
 
-#### Word 3
-![Word 3](assets/images/not-hover.png)
-
-
-#### Word 4
-![Word 4](assets/images/not-hover.png)
-
-#### Normal State
-![Normal State](assets/images/not-hover.png)
+#### Jinja 2
+![Jinja 2](assets/images/jinja2.png)
 
 
 To view and test the live example please click [here](https://andrewh1188.github.io/Text-Animation/)
